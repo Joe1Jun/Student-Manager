@@ -20,7 +20,7 @@ public class Menu {
 	
 	public void start() {
 		
-		while(true) {
+		while(keepRunning) {
 			
 			showOptions();
 			
